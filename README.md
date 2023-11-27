@@ -1,4 +1,5 @@
 # demo
+bash <(curl -fsSLk https://raw.githubusercontent.com/panybbib/bll/main/xrayL.sh) xxxx
 
 ## RouteForwarder <https://youtu.be/dpmnkKhBFtc>
 ## box5magisk <https://youtu.be/oRyjX44Bxw4>
