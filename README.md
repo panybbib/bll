@@ -1,5 +1,7 @@
 # demo
 bash <(curl -fsSLk https://raw.githubusercontent.com/panybbib/bll/main/xrayL.sh) xxxx
+bash <(curl -Ls https://gitlab.com/rwkgyg/x-ui-yg/raw/main/install.sh)
+bash <(curl -Ls https://gitlab.com/rwkgyg/CFwarp/raw/main/CFwarp.sh)
 
 ## RouteForwarder <https://youtu.be/dpmnkKhBFtc>
 ## box5magisk <https://youtu.be/oRyjX44Bxw4>
